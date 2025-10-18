@@ -33,7 +33,7 @@ export default function Hero() {
                 </motion.div>
                 
                 <h1 className="text-5xl md:text-6xl font-bold text-gray-800 leading-tight">
-                  Hi, I'm{' '}
+                  Hi, I&apos;m{' '}
                   <span className="bg-gradient-to-r from-gray-700 to-gray-900 bg-clip-text text-transparent">
                     {personalInfo.name.split(' ')[0]}
                   </span>

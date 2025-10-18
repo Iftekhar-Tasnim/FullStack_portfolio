@@ -21,7 +21,7 @@ export default function Services() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               I offer comprehensive web development and design services to help bring your digital vision to life. 
-              From concept to deployment, I'm here to make your project a success.
+              From concept to deployment, I&apos;m here to make your project a success.
             </p>
           </motion.div>
         </div>
@@ -160,7 +160,7 @@ export default function Services() {
               What Clients Say
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Don't just take my word for it. Here's what my clients have to say about working with me.
+              Don&apos;t just take my word for it. Here&apos;s what my clients have to say about working with me.
             </p>
           </motion.div>
 
@@ -182,7 +182,7 @@ export default function Services() {
                 </div>
                 
                 <p className="text-gray-600 mb-6 leading-relaxed">
-                  "{testimonial.content}"
+                  &ldquo;{testimonial.content}&rdquo;
                 </p>
                 
                 <div className="flex items-center">
@@ -214,7 +214,7 @@ export default function Services() {
               Ready to Start Your Project?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-              Let's discuss your ideas and create something amazing together. I'm here to help bring your vision to life.
+              Let&apos;s discuss your ideas and create something amazing together. I&apos;m here to help bring your vision to life.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

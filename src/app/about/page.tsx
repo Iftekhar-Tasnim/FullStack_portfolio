@@ -281,10 +281,10 @@ export default function About() {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              Let's Work Together
+              Let&apos;s Work Together
             </h2>
             <p className="text-xl text-gray-200 mb-8 max-w-2xl mx-auto">
-              I'm always excited to take on new challenges and create amazing digital experiences.
+              I&apos;m always excited to take on new challenges and create amazing digital experiences.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

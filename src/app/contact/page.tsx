@@ -49,8 +49,8 @@ export default function Contact() {
               Get In Touch
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Have a project in mind? Let's discuss how we can work together 
-              to bring your ideas to life. I'm always excited to take on new challenges.
+              Have a project in mind? Let&apos;s discuss how we can work together 
+              to bring your ideas to life. I&apos;m always excited to take on new challenges.
             </p>
           </motion.div>
         </div>
@@ -73,7 +73,7 @@ export default function Contact() {
               
               {submitStatus === 'success' && (
                 <div className="mb-6 p-4 bg-green-100 border border-green-400 text-green-700 rounded-lg">
-                  Thank you! Your message has been sent successfully. I'll get back to you soon.
+                  Thank you! Your message has been sent successfully. I&apos;ll get back to you soon.
                 </div>
               )}
 
@@ -162,11 +162,11 @@ export default function Contact() {
             >
               <div>
                 <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                  Let's connect
+                  Let&apos;s connect
                 </h2>
                 <p className="text-lg text-gray-600 mb-8">
-                  I'm always interested in hearing about new opportunities and projects. 
-                  Whether you have a question or just want to say hi, I'll try my best to get back to you!
+                  I&apos;m always interested in hearing about new opportunities and projects. 
+                  Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
                 </p>
               </div>
 
